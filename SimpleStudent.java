@@ -40,7 +40,7 @@ class Student{
     }
 }
 
-public class Launcher {
+public class SimpleStudent{
     public static void main(String[] args) {
         Student s1=new Student("Ashik", "17bcs1520", (byte)20);
         System.out.println(s1);
